@@ -97,6 +97,7 @@ This work is built on many amazing research works and open-source projects, than
 
 - [Gaussian-Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization)
 - [DUSt3R](https://github.com/naver/dust3r)
+- [InstantSplat](https://github.com/NVlabs/InstantSplat)
 
 <!--
 ## Citation
