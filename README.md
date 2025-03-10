@@ -1,18 +1,24 @@
 
+<h2 align="center"> Splatting-SLAM: Fast Camera Pose Estimation and 3D Reconstruction with <a href="https://github.com/naver/dust3r"> dust3r </a> and <a href="https://arxiv.org/abs/2403.20309"> Gaussian Splatting </a> Approach
+<!--
 <h2 align="center"> <a href="https://arxiv.org/abs/2403.20309">InstantSplat: Sparse-view SfM-free <a href="https://arxiv.org/abs/2403.20309"> Gaussian Splatting in Seconds </a>
-
+-->
+<!--
 <h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2403.20309) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kairunwen/InstantSplat) 
 [![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://instantsplat.github.io/) [![X](https://img.shields.io/badge/-Twitter@Zhiwen%20Fan%20-black?logo=twitter&logoColor=1D9BF0)](https://x.com/WayneINR/status/1774625288434995219)  [![youtube](https://img.shields.io/badge/Demo_Video-E33122?logo=Youtube)](https://youtu.be/fxf_ypd7eD8) [![youtube](https://img.shields.io/badge/Tutorial_Video-E33122?logo=Youtube)](https://www.youtube.com/watch?v=JdfrG89iPOA&t=347s)
 </h5>
 
+
 <div align="center">
 This repository is the official implementation of InstantSplat, an sparse-view, SfM-free framework for large-scale scene reconstruction method using Gaussian Splatting.
 InstantSplat supports 3D-GS, 2D-GS, and Mip-Splatting.
 </div>
 <br>
+-->
 
+<!--
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -83,6 +89,7 @@ if docker failed to produce reasonable results, try Installation step again with
   # InstantSplat train and evaluate (with GT reference) using the following command.
   bash scripts/run_eval.sh
 ```
+-->
 
 ## Acknowledgement
 
@@ -91,6 +98,7 @@ This work is built on many amazing research works and open-source projects, than
 - [Gaussian-Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization)
 - [DUSt3R](https://github.com/naver/dust3r)
 
+<!--
 ## Citation
 If you find our work useful in your research, please consider giving a star :star: and citing the following paper :pencil:.
 
@@ -104,3 +112,4 @@ If you find our work useful in your research, please consider giving a star :sta
         primaryClass={cs.CV}
       }
 ```
+-->
